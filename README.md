@@ -37,7 +37,7 @@ The objective was to clean, model, and visualize business data in a structured w
 
 ## Dashboard Preview
 
-📄 Full dashboard available in `dashboard.pdf`
+📄 Full dashboard available in `AdventureWorks Report.pdf`
 
 ---
 
